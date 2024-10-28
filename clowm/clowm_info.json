@@ -3,7 +3,7 @@
     "fastq"
   ],
   "outputParameters": [
-      "out_dir": ""
+      "out_dir"
   ],
   "exampleParameters": {
     "fastq": "s3://workflow-exampledata/epi2me-ont-mpx/example1/fastq",
