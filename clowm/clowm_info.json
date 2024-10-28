@@ -1,0 +1,13 @@
+{
+  "inputParameters": [
+    "fastq"
+  ],
+  "outputParameters": [
+      "out_dir": ""
+  ],
+  "exampleParameters": {
+    "fastq": "s3://workflow-exampledata/epi2me-ont-mpx/example1/fastq",
+      "reference": "NC_003310.1",
+      "sample": "Mpox_exampledata"
+  }
+}
